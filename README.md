@@ -14,6 +14,6 @@ BluePill footprint
 
 ![](https://raw.githubusercontent.com/yet-another-average-joe/Kicad-STM32/master/images/YAAJ_BluePill_Footprint.PNG)
 
-3D renderings
+BluePill 3D renderings
 
 ![](https://raw.githubusercontent.com/yet-another-average-joe/Kicad-STM32/master/images/YAAJ_BluePill_3D.png)
