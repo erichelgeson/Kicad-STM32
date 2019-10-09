@@ -1,7 +1,6 @@
 # Kicad-STM32
-STM 32 library for KiCad
-
 STM32 library for Kicad (at this time, the BluePill)
+
 - 2 symbols
 - footprint
 - STEP model
