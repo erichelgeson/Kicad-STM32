@@ -1,5 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP BlackPill_1
+D STM32 Blue Pill
+K STM32 Blue Pill BluePill
+$ENDCMP
+#
+$CMP BlackPill_2
+D STM32 Blue Pill
+K STM32 Blue Pill BluePill
+$ENDCMP
+#
 $CMP BluePill_1
 D STM32 Blue Pill
 K STM32 Blue Pill BluePill
