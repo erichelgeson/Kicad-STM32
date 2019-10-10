@@ -25,6 +25,6 @@ BlackPill footprint
 
 ![](https://raw.githubusercontent.com/yet-another-average-joe/Kicad-STM32/master/images/YAAJ_BlackPill_Footprint.PNG)
 
-BlackPill 3 renderings
+BlackPill 3D renderings
 
 ![](https://raw.githubusercontent.com/yet-another-average-joe/Kicad-STM32/master/images/YAAJ_BlackPill_3D.png)
