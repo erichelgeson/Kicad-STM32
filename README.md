@@ -1,5 +1,5 @@
 # Kicad-STM32
-STM32 library for Kicad (at this time, the BluePill)
+STM32 library for Kicad : BluePill and BlackPill
 
 - 2 symbols
 - footprint
