@@ -1,12 +1,5 @@
 # Kicad-STM32
 
----------------------------------------------------------------
-
-DO **NOT** DOWNLOAD FOR NOW - THE LIBRARY IS CURRENTLY BEING EDITED
-
----------------------------------------------------------------
-
-
 STM32 library for Kicad : BluePill and BlackPill
 
 - symbols : 2 for each ; one is KLC compliant (let me know if it isn't !), the other is "part like", and usefull when capturing schematics while playing with breadboards
@@ -43,19 +36,3 @@ Footprints
 ![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BluePill_1.PNG)
 ![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BluePill_2.PNG)
 ![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BluePill_2_SWD_Breakout.PNG)
-
-BluePill 3D renderings
-
-![](https://raw.githubusercontent.com/yet-another-average-joe/Kicad-STM32/master/images/YAAJ_BluePill_3D.png)
-
-BlackPill symbols
-
-![](https://raw.githubusercontent.com/yet-another-average-joe/Kicad-STM32/master/images/YAAJ_BlackPill_Symbols.PNG)
-
-BlackPill footprint
-
-![](https://raw.githubusercontent.com/yet-another-average-joe/Kicad-STM32/master/images/YAAJ_BlackPill_Footprint.PNG)
-
-BlackPill 3D renderings
-
-![](https://raw.githubusercontent.com/yet-another-average-joe/Kicad-STM32/master/images/YAAJ_BlackPill_3D.png)
