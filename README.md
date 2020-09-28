@@ -1,4 +1,12 @@
 # Kicad-STM32
+
+---------------------------------------------------------------
+
+DO NOT DOWNLOAD FOR NOW - THE LIBRARY IS CURRENTLY BEING EDITED
+
+---------------------------------------------------------------
+
+
 STM32 library for Kicad : BluePill and BlackPill
 
 - 2 symbols
