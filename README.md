@@ -34,9 +34,15 @@ Symbols
 ![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BluePill_Sym.png)
 ![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BluePill_Part_Like_Sym.png)
 
-BluePill footprint
+Footprints
 
-![](https://raw.githubusercontent.com/yet-another-average-joe/Kicad-STM32/master/images/YAAJ_BluePill_Footprint.PNG)
+![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BlackPill_1.PNG)
+![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BlackPill_2.PNG)
+![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BlackPill_2_SWD_Breakout.PNG)
+
+![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BluePill_1.PNG)
+![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BluePill_2.PNG)
+![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BluePill_2_SWD_Breakout.PNG)
 
 BluePill 3D renderings
 
