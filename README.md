@@ -41,7 +41,7 @@ Naming for 3Dpackage files is probably not the best. English is not my first lan
 
 **YAAJ_Module_STM32_BlackPill_No_Headers_cp** :
 
-bare module, no heaers
+bare module, no headers
 
 **YAAJ_Module_STM32_BlackPill_PinHeaders_Bottom_SWD_Header_cp** :
 
