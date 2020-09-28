@@ -17,7 +17,7 @@ STM32 library for Kicad : BluePill and BlackPill
 
 - WRL models : they are the most important ones, and they are there. .wrl is the format to use with KiCad !
 
-All 3D models are 100% original. No component was downloaded and reused. All have a small mark ("Y@@J"), so I can see I didn't stole anything from anyone. These marls can easily be removed if you find them anoying. It is *NOT* watermarking, and everything is there for sharing !
+All 3D models are 100% original. No component was downloaded and reused. All parts I design have a small mark ("Y@@J"), so I can see they were my creation. These marks can easily be removed using your favorite CAD software if you think they are anoying. It is *NOT* watermarking, and everything is there for sharing !
 
 BluePill symbols
 
