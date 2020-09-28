@@ -26,9 +26,13 @@ All 3D models and parts are 100% original.
 ![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/BluePill.JPG)
 
 
-BluePill symbols
+Symbols
 
-![](https://raw.githubusercontent.com/yet-another-average-joe/Kicad-STM32/master/images/YAAJ_BluePill_Symbols.PNG)
+![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BlackPill_Sym.png)
+![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BlackPill_Part_Like_Sym.png)
+
+![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BluePill_Sym.png)
+![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BluePill_Part_Like_Sym.png)
 
 BluePill footprint
 
