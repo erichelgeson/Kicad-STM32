@@ -39,74 +39,74 @@ Footprints
 
 Naming for 3Dpackage files is probably not the best. English is not my first language...
 
-YAAJ_Module_STM32_BlackPill_No_Headers_cp :
+**YAAJ_Module_STM32_BlackPill_No_Headers_cp** :
 
 bare module, no heaers
 
-YAAJ_Module_STM32_BlackPill_PinHeaders_Bottom_SWD_Header_cp :
+**YAAJ_Module_STM32_BlackPill_PinHeaders_Bottom_SWD_Header_cp** :
 
 pin headers, SWD header broken out on bottom
 
-YAAJ_Module_STM32_BlackPill_PinHeaders_H_SWD_Header_cp :
+**YAAJ_Module_STM32_BlackPill_PinHeaders_H_SWD_Header_cp** :
 
 pin headers, SWD port on top with horizontal pin header
 
-YAAJ_Module_STM32_BlackPill_PinHeaders_No_SWD_Header_cp :
+**YAAJ_Module_STM32_BlackPill_PinHeaders_No_SWD_Header_cp** :
 
 pin headers, no SWD port
 
-YAAJ_Module_STM32_BlackPill_PinHeaders_V_SWD_Header_cp :
+**YAAJ_Module_STM32_BlackPill_PinHeaders_V_SWD_Header_cp** :
 
 pin headers, SWD port on top with vertical pin header
 
-YAAJ_Module_STM32_BlackPill_PinSockets_Bottom_SWD_Header_cp :
+**YAAJ_Module_STM32_BlackPill_PinSockets_Bottom_SWD_Header_cp** :
 
 pin headers on pin sockets, SWD header broken out on bottom
 
-YAAJ_Module_STM32_BlackPill_PinSockets_H_SWD_Header_cp :
+**YAAJ_Module_STM32_BlackPill_PinSockets_H_SWD_Header_cp** :
 
 pin headers on pin sockets, SWD port on top with horizontal pin header
 
-YAAJ_Module_STM32_BlackPill_PinSockets_No_SWD_Header_cp :
+**YAAJ_Module_STM32_BlackPill_PinSockets_No_SWD_Header_cp** :
 
 pin headers on pin sockets, no SWD port
 
-YAAJ_Module_STM32_BlackPill_PinSockets_V_SWD_Header_cp :
+**YAAJ_Module_STM32_BlackPill_PinSockets_V_SWD_Header_cp** :
 
 pin headers on pin sockets, SWD port on top with vertical pin header
 
-YAAJ_Module_STM32_BluePill_No_Headers_cp :
+**YAAJ_Module_STM32_BluePill_No_Headers_cp** :
 
-bare module, no heaers
+bare module, no headers
 
-YAAJ_Module_STM32_BluePill_PinHeaders_Bottom_SWD_Header_cp :
+**YAAJ_Module_STM32_BluePill_PinHeaders_Bottom_SWD_Header_cp** :
 
 pin headers, SWD header broken out on bottom
 
-YAAJ_Module_STM32_BluePill_PinHeaders_H_SWD_Header_cp :
+**YAAJ_Module_STM32_BluePill_PinHeaders_H_SWD_Header_cp** :
 
 pin headers, SWD port on top with horizontal pin header
 
-YAAJ_Module_STM32_BluePill_PinHeaders_No_SWD_Header_cp :
+**YAAJ_Module_STM32_BluePill_PinHeaders_No_SWD_Header_cp** :
 
 pin headers, no SWD port
 
-YAAJ_Module_STM32_BluePill_PinHeaders_V_SWD_Header_cp :
+**YAAJ_Module_STM32_BluePill_PinHeaders_V_SWD_Header_cp** :
 
 pin headers, SWD port on top with vertical pin header
 
-YAAJ_Module_STM32_BluePill_PinSockets_Bottom_SWD_Header_cp :
+**YAAJ_Module_STM32_BluePill_PinSockets_Bottom_SWD_Header_cp** :
 
 pin headers on pin sockets, SWD header broken out on bottom
 
-YAAJ_Module_STM32_BluePill_PinSockets_H_SWD_Header_cp :
+**YAAJ_Module_STM32_BluePill_PinSockets_H_SWD_Header_cp** :
 
 pin headers on pin sockets, SWD port on top with horizontal pin header
 
-YAAJ_Module_STM32_BluePill_PinSockets_No_SWD_Header_cp :
+**YAAJ_Module_STM32_BluePill_PinSockets_No_SWD_Header_cp** :
 
 pin headers on pin sockets, no SWD port
 
-YAAJ_Module_STM32_BluePill_PinSockets_V_SWD_Header_cp :
+**YAAJ_Module_STM32_BluePill_PinSockets_V_SWD_Header_cp** :
 
 pin headers on pin sockets, SWD port on top with vertical pin header
