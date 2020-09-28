@@ -9,7 +9,7 @@ DO NOT DOWNLOAD FOR NOW - THE LIBRARY IS CURRENTLY BEING EDITED
 
 STM32 library for Kicad : BluePill and BlackPill
 
-- symbols : 2 for each ; one is KLC compliant, the other is "part like", and usefull when capturing schematics while playing with breadboards
+- symbols : 2 for each ; one is KLC compliant (let me know if it isn't !), the other is "part like", and usefull when capturing schematics while playing with breadboards
 
 - footprints : 3 for each. They are of three kinds ; one is eye candy with a nice silkscreen. The two other ones consider that the "Pill" is on pin headers +- socket headers, and that there is room underneath for components : courtyards are limited to the headers. One of them adds a breakout to the PCB for the SWD port : this can be usefull (for example if the project has a remote connector for flashing/debugging)
 
