@@ -21,6 +21,11 @@ All 3D models and parts are 100% original.
 
 **All 3D models should align properly with the KiCad and FreeCad coordinates systems. It wasn't the case with the previous version. The problem is now solved.**
 
+
+![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/BlackPill.JPG)
+![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/BluePill.JPG)
+
+
 BluePill symbols
 
 ![](https://raw.githubusercontent.com/yet-another-average-joe/Kicad-STM32/master/images/YAAJ_BluePill_Symbols.PNG)
