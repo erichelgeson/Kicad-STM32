@@ -2,7 +2,7 @@
 
 ---------------------------------------------------------------
 
-DO *NOT* DOWNLOAD FOR NOW - THE LIBRARY IS CURRENTLY BEING EDITED
+DO **NOT** DOWNLOAD FOR NOW - THE LIBRARY IS CURRENTLY BEING EDITED
 
 ---------------------------------------------------------------
 
@@ -19,7 +19,7 @@ STM32 library for Kicad : BluePill and BlackPill
 
 All 3D models are 100% original. No component was downloaded and reused. All parts I design have a small mark ("Y@@J"), so I can see they were my creation. These marks can easily be removed using your favorite CAD software if you think they are anoying. It is *NOT* watermarking, and everything is there for sharing !
 
-*All 3D models should align properly with the KiCad and FreeCad coordinate systems. It wasn't the case with the previous version. The problem is now solved.*
+**All 3D models should align properly with the KiCad and FreeCad coordinate systems. It wasn't the case with the previous version. The problem is now solved.**
 
 BluePill symbols
 
