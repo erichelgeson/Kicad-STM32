@@ -2,7 +2,7 @@
 
 ---------------------------------------------------------------
 
-DO NOT DOWNLOAD FOR NOW - THE LIBRARY IS CURRENTLY BEING EDITED
+DO *NOT* DOWNLOAD FOR NOW - THE LIBRARY IS CURRENTLY BEING EDITED
 
 ---------------------------------------------------------------
 
