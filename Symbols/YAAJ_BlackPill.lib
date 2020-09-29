@@ -5,7 +5,7 @@ EESchema-LIBRARY Version 2.4
 #
 DEF YAAJ_BlackPill U 0 40 Y Y 1 F N
 F0 "U" -500 900 50 H V C CNN
-F1 "YAAJ_BlackPill" 400 900 50 H V C CNN
+F1 "YAAJ_BlackPill" 0 -200 50 V V C CNN
 F2 "" 650 -850 50 V I C CNN
 F3 "" 650 -850 50 V I C CNN
 DRAW

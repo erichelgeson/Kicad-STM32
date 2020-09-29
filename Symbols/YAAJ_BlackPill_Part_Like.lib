@@ -5,7 +5,7 @@ EESchema-LIBRARY Version 2.4
 #
 DEF YAAJ_BlackPill_Part_Like U 0 40 Y Y 1 F N
 F0 "U" -550 950 50 H V C CNN
-F1 "YAAJ_BlackPill_Part_Like" 400 950 50 H V C CNN
+F1 "YAAJ_BlackPill_Part_Like" 0 -150 50 V V C CNN
 F2 "" 650 -1200 50 H I C CNN
 F3 "" 650 -1200 50 H I C CNN
 DRAW
