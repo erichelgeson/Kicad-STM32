@@ -1,29 +1,5 @@
 # Kicad-STM32
 
-
-
-
-
-
--------------------------------------------------------------------------------------------------
-DO **NOT** DOWNLOAD FOR NOW - WORK IN PROGRESS
--------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 STM32 library for Kicad : BluePill and BlackPill
 
 - symbols : 2 for each ; one is KLC compliant (let me know if it isn't !), the other is "part like", and usefull when capturing schematics while playing with breadboards
