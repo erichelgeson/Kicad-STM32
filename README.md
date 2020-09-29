@@ -1,5 +1,7 @@
 # Kicad-STM32
 
+**DO NOT DOWNLOAD FOR NOW - THERE4S A MISTALE IN THE BLUEOPILL 3D MODEL SILKSCREEN**
+
 STM32 library for Kicad : BluePill and BlackPill
 
 - symbols : 4 for each ; with and without SWD port breakout ; four are is KLC compliant (let me know if it isn't !), four are "part like", and usefull when capturing schematics while playing with breadboards
