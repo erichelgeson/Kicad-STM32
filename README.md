@@ -1,6 +1,5 @@
 # Kicad-STM32
 
-**DO NOT DOWNLOAD FOR NOW - THERE'S A MISTAKE IN THE BLUEPILL 3D MODEL SILKSCREEN**
 
 STM32 library for Kicad : BluePill and BlackPill
 
@@ -13,7 +12,9 @@ STM32 library for Kicad : BluePill and BlackPill
 **The step files are too large for GitHub. They are available on GrabCad :** 
 
 BlackPill STEP models : https://grabcad.com/library/stm32-blackpill-1
+
 BluePill STEP models : https://grabcad.com/library/stm32-bluepill-2
+
 - WRL models : they are there.
 
 All 3D models and parts are 100% original.
@@ -52,7 +53,7 @@ Naming for 3Dpackage files is probably not the best. English is not my first lan
 
 bare module, no headers
 
-**YAAJ_Module_STM32_BlackPill_PinHeaders_Bottom_SWD_Header_cp** :
+**YAAJ_Module_STM32_BlackPill_PinHeaders_B_SWD_Header_cp** :
 
 pin headers, SWD header broken out on bottom
 
@@ -68,7 +69,7 @@ pin headers, no SWD port
 
 pin headers, SWD port on top with vertical pin header
 
-**YAAJ_Module_STM32_BlackPill_PinSockets_Bottom_SWD_Header_cp** :
+**YAAJ_Module_STM32_BlackPill_PinSockets_B_SWD_Header_cp** :
 
 pin headers on pin sockets, SWD header broken out on bottom
 
@@ -88,7 +89,7 @@ pin headers on pin sockets, SWD port on top with vertical pin header
 
 bare module, no headers
 
-**YAAJ_Module_STM32_BluePill_PinHeaders_Bottom_SWD_Header_cp** :
+**YAAJ_Module_STM32_BluePill_PinHeaders_B_SWD_Header_cp** :
 
 pin headers, SWD header broken out on bottom
 
@@ -104,7 +105,7 @@ pin headers, no SWD port
 
 pin headers, SWD port on top with vertical pin header
 
-**YAAJ_Module_STM32_BluePill_PinSockets_Bottom_SWD_Header_cp** :
+**YAAJ_Module_STM32_BluePill_PinSockets_B_SWD_Header_cp** :
 
 pin headers on pin sockets, SWD header broken out on bottom
 
