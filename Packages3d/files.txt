@@ -1,0 +1,26 @@
+
+YAAJ_Module_STM32_BlackPill_No_Headers_cp
+bare module, no headers
+
+YAAJ_Module_STM32_BlackPill_PinHeaders_B_SWD_Header_cp
+pin headers, SWD header broken out on bottom
+
+YAAJ_Module_STM32_BlackPill_PinHeaders_H_SWD_Header_cp
+pin headers, SWD port on top with horizontal pin header
+
+YAAJ_Module_STM32_BlackPill_PinHeaders_No_SWD_Header_cp
+pin headers, no SWD header
+YAAJ_Module_STM32_BlackPill_PinHeaders_V_SWD_Header_cp 
+pin headers, SWD port on top with vertical pin header
+
+YAAJ_Module_STM32_BlackPill_PinSockets_B_SWD_Header_cp 
+pin headers on pin sockets, SWD header broken out on bottom
+
+YAAJ_Module_STM32_BlackPill_PinSockets_H_SWD_Header_cp 
+pin headers on pin sockets, SWD port on top with horizontal pin header
+
+YAAJ_Module_STM32_BlackPill_PinSockets_No_SWD_Header_cp 
+pin headers on pin sockets, no SWD header
+
+YAAJ_Module_STM32_BlackPill_PinSockets_V_SWD_Header_cp 
+pin headers on pin sockets, SWD port on top with vertical pin header
