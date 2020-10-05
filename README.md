@@ -3,7 +3,7 @@
 
 STM32 library for Kicad : BluePill and BlackPill
 
-- symbols : 4 for each ; with and without SWD port breakout ; four are is KLC compliant (let me know if it isn't !), four are "part like", and usefull when capturing schematics while playing with breadboards
+- symbols : 4 for each ; with and without SWD port breakout ; four are KLC compliant (let me know if it isn't !), four are "part like", and usefull when capturing schematics while playing with breadboards
 
 - footprints : 4 for each. They are of two kinds ; one with a detailled silkscreen, the other one with the bare minimum. Also, two versions are provideed : with or without the SWD port broken out to the PCB : this can be usefull (for example if the project has a remote connector for flashing/debugging). Footprints are oriented the same way that the pinout drawings that can be found all over the web : USB socket downside for the BlackPill, upside for the BluePill. In my opinion, this makes things easier.
 
