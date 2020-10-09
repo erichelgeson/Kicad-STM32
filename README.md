@@ -27,15 +27,15 @@ Symbols
 
 Footprints
 
-![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BlackPill_No_SWD_Breakout_1_Footprint.png)
-![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BlackPill_No_SWD_Breakout_2_Footprint.png)
-![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BlackPill_SWD_Breakout_1_Footprint.png)
-![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BlackPill_SWD_Breakout_2_Footprint.png)
+![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BlackPill_1_Footprint.png)
+![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BlackPill_2_Footprint.png)
+![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BlackPill_SWD_1_Footprint.png)
+![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BlackPill_SWD_2_Footprint.png)
 
-![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BluePill_No_SW_Breakout_1_Footprint.png)
-![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BluePill_No_SW_Breakout_2_Footprint.png)
-![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BluePill_SW_Breakout_1_Footprint.png)
-![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BluePill_SW_Breakout_2_Footprint.png)
+![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BluePill_1_Footprint.png)
+![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BluePill_2_Footprint.png)
+![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BluePill_SWD_1_Footprint.png)
+![](https://github.com/yet-another-average-joe/Kicad-STM32/blob/master/images/YAAJ_BluePill_SWD_2_Footprint.png)
 
 Naming for 3Dpackage files is probably not the best. English is not my first language...
 
