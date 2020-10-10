@@ -1,10 +1,10 @@
-(module YAAJ_Modules_STM32:YAAJ_BluePill_1 (layer F.Cu) (tedit 5F80E604)
+(module YAAJ_Modules_STM32:YAAJ_BluePill_1 (layer F.Cu) (tedit 5F81AE08)
   (descr "Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.")
   (tags "module BlluePill Blue Pill header SWD breakout")
   (fp_text reference REF** (at 7.62 -3.81) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value BluePill (at 12.7 24.765 90) (layer F.Fab) hide
+  (fp_text value BluePill (at 20.32 24.765 90) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_arc (start 6.826778 25.17595) (end 6.892105 25.240682) (angle -63.65669412) (layer F.SilkS) (width 0.12))
@@ -105,7 +105,7 @@
   (fp_arc (start 7.35 6.21) (end 7.35 6.11) (angle -90) (layer F.SilkS) (width 0.12))
   (fp_arc (start 12.23 11.09) (end 12.23 11.189999) (angle -90) (layer F.SilkS) (width 0.12))
   (fp_arc (start 12.23 6.21) (end 12.33 6.21) (angle -90) (layer F.SilkS) (width 0.12))
-  (fp_text user REF** (at 2.54 24.13 90) (layer F.Fab)
+  (fp_text user REF** (at 7.62 24.13 90) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text user Y@@J (at 2.921 -1.016 90 unlocked) (layer Dwgs.User)
